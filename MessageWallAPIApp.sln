@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageWallAPI", "MessageWallAPI\MessageWallAPI.csproj", "{8EDFE284-EAF7-4F8D-A2F3-D90DCD0132AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EDFE284-EAF7-4F8D-A2F3-D90DCD0132AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDFE284-EAF7-4F8D-A2F3-D90DCD0132AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDFE284-EAF7-4F8D-A2F3-D90DCD0132AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDFE284-EAF7-4F8D-A2F3-D90DCD0132AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E02F2ED3-9514-4C1B-A489-330D51ED937A}
+	EndGlobalSection
+EndGlobal
